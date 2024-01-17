@@ -236,13 +236,13 @@ font-weight: 800;
     width: 573px;
     height: 300px;
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%)0, url(./images/Rectangle\ 10.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%)0, url(./Images/Rectangle\ 10.png), lightgray 50% / cover no-repeat;
 
 }
 
 .img-grid-2{
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(./images/Rectangle\ 8.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(./Images/Rectangle\ 8.png), lightgray 50% / cover no-repeat;
     background-repeat: no-repeat;
     width: 573px;
     height: 300px;
