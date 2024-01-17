@@ -278,7 +278,7 @@ padding-bottom: 24px;
 }
 .img-grid-3{
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(./images/Rectangle\ 6.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(./Images/Rectangle\ 6.png), lightgray 50% / cover no-repeat;
     background-repeat: no-repeat;
     width: 374px;
     height: 286px;
@@ -288,7 +288,7 @@ background-position: center;
 }
 .img-grid-4{
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(./images/Rectangle\ 7.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(./Images/Rectangle\ 7.png), lightgray 50% / cover no-repeat;
     background-repeat: no-repeat;
     width: 474px;
     height: 286px;
@@ -298,7 +298,7 @@ background-position: center;
 }
 .img-grid-5{
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(./images/Rectangle\ 9.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(./Images/Rectangle\ 9.png), lightgray 50% / cover no-repeat;
     background-repeat: no-repeat;
     width: 274px;
 height: 286px;
@@ -320,7 +320,7 @@ margin-top: 24px;
 }
 .img-grid-6{
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(./images/Rectangle\ 11.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(./Images/Rectangle\ 11.png), lightgray 50% / cover no-repeat;
     background-repeat: no-repeat;
     width: 473px;
     height: 300px;
@@ -330,7 +330,7 @@ background-position: center;
 }
 .img-grid-7{
     border-radius: 16px;
-    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(./images/Rectangle\ 10.png), lightgray 50% / cover no-repeat;
+    background: linear-gradient(0deg, rgba(19, 19, 24, 0.20) 0%, rgba(19, 19, 24, 0.20) 100%), url(./Images/Rectangle\ 10.png), lightgray 50% / cover no-repeat;
     width: 673px;
     height: 300px;
 flex-shrink: 0;
