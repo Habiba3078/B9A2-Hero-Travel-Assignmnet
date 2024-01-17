@@ -494,7 +494,11 @@ margin-bottom: 100px;
 }
 .extrasections{
     height: 2100px;
-    margin-left: 200px;
+    height: 1770px;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+   
 }
 
 
@@ -504,7 +508,7 @@ margin-bottom: 100px;
 .section-container4{
 
     width: 1170px;
-    height: 750px;
+    height: 290px;
     margin: 0 auto;
     margin-bottom: 100px;
   
@@ -933,7 +937,7 @@ margin-top: 50px;
     /* <!-- Extra sections --> */
 
     .extrasections{
-        height: 1770px;
+       height: 1770px;
 
     }
     .extrasections, .section-container-extra1, .section-container-extra2, .section-container-extra3 {
@@ -995,7 +999,7 @@ margin-top: 50px;
    }
    .section-container4{
     
-    height: 1000px;
+    height: 1100px;
    }
 
 
@@ -1557,7 +1561,7 @@ footer{
     }
     .extrasections{
         height: 2100px;
-        margin-left: 200px;
+        
     }
     
     
@@ -1567,7 +1571,7 @@ footer{
     .section-container4{
     
         width: 1170px;
-        height: 750px;
+        height: 290px;
         margin: 0 auto;
         margin-bottom: 500px;
       
